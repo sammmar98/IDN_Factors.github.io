@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Risk Factors in the Indonesian Stock Market"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Nanqi Li"
 description              : &description "personal description"
 url                      : https://sammmar98.github.io/IDN_Factors.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
