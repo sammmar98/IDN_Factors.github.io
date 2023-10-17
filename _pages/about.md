@@ -20,11 +20,11 @@ For the co-auther team: The three authors are all from School of Accounting and 
 
 If you are interested in any aspect of our paper, please feel free to contact us. You can reach with the email addresses below: 
 <br>
-Linti Zhang: (mailto:linti1002.zhang@polyu.edu.hk)
+[Linti Zhang](mailto:linti1002.zhang@polyu.edu.hk): linti1002.zhang@polyu.edu.hk
 <br>
-Nanqi Li: (mailto:nanqi.li@connect.polyu.hk)
+[Nanqi Li](mailto:nanqi.li@connect.polyu.hk): nanqi.li@connect.polyu.hk
 <br>
-Chishen Wei: (mailto:chishen.wei@polyu.edu.hk)
+[Chishen Wei](mailto:chishen.wei@polyu.edu.hk): chishen.wei@polyu.edu.hk
 <br>
 
 
