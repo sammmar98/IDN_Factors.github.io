@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chishen Wei <br> Linti Zhang <br> Nanqi Li"
-  avatar           : "Paper.png"
+  avatar           : #"Paper.png"
   bio              : "We are the coauthor team of this paper. Linti is the correspondence author for this paper."
   location         : "Hong Kong"
   employer         :  
