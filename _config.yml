@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nanqi Li"
+  name             : "Linti Zhang"
   avatar           : "Paper.png"
-  bio              : "HKPU"
+  bio              : "Linti is the correspondence author for this paper."
   location         : "Hong Kong"
   employer         :  
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "nanqi.li@connect.polyu.hk"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "lint1002.zhang@polyu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
