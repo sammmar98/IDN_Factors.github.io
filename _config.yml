@@ -87,7 +87,7 @@ author:
   employer         :  
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "lint1002.zhang@polyu.edu.hk"
+  email            : #"lint1002.zhang@polyu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://www.sciencedirect.com/science/article/pii/S0927538X23002469"
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://sammmar98.github.io/IDN_Factors.github.io/_codes"
+  github           : "https://sammmar98.github.io/IDN_Factors.github.io/codes"
   google_plus      :
   keybase          :
   instagram        :
