@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Codes"
-    url: /codes/
+  # - title: "Codes"
+  #   url: /codes/
+
+  - title: "Factor Data"
+    url: /fdata/
 
   - title: "Key Findings"
     url: /keyfindings/
