@@ -1,7 +1,7 @@
 ---
 title: "Factor with Main board breakpoint"
 collection: Factor Data
-permalink: /Factor Data/main
+permalink: /fdata/main
 excerpt: 'Data for factors in Indonesia market with Main board break point.'
 date: 2023-11-11
 venue: 'Journal 1'
