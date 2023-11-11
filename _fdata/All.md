@@ -1,7 +1,7 @@
 ---
 title: "Factor with All stock breakpoint"
 collection: Factor Data
-permalink: /fdata/main
+permalink: /Factor Data/main
 excerpt: 'Data for factors in Indonesia market with All stock break point.'
 date: 2023-11-11
 venue: 'Journal 1'
