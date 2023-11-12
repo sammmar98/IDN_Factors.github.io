@@ -1,7 +1,7 @@
 ---
 title: "Factor with NYSE breakpoint"
 collection: Factor Data
-permalink: /Factor Data/main
+permalink: /Factor Data/NYSE
 excerpt: 'Data for factors in Indonesia market with NYSE break point.'
 date: 2023-11-11
 
