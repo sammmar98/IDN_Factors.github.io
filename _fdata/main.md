@@ -1,8 +1,8 @@
 ---
-title: "Factor with Main board breakpoint"
+title: "LS portfolios with Main board breakpoint"
 collection: Factor Data
 permalink: /Factor Data/main
-excerpt: 'Data for factors in Indonesia market with Main board break point.'
+excerpt: 'Data for LS portfolios in Indonesia market with Main board break point.'
 date: 2023-11-11
 
 ---
