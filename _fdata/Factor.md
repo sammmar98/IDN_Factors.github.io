@@ -3,7 +3,7 @@ title: "IDX-4 factor model"
 collection: Factor Data
 permalink: /Factor Data/All
 excerpt: 'Data for IDX-4 factor model in Indonesia market.'
-date: 2023-11-11
+date: 2025-04-05
 
 
 ---
