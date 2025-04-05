@@ -9,6 +9,6 @@ date: 2025-04-05
 ---
 Data for IDX-4 factor model in Indonesia market.
 
-[Download Factor Data here](https://sammmar98.github.io/IDN_Factors.github.io//files/Factor_model.csv)
+[Download Factor Data here](https://sammmar98.github.io/IDN_Factors.github.io//files/Factor_model.xlsx)
 
 Recommended citation: Li, Nanqi, Chishen Wei, and Linti Zhang, 2025, A Four-Factor Model for the Indonesia Stock Market, Working Paper.
