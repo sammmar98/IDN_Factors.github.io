@@ -11,11 +11,9 @@ redirect_from:
 
 
 -----
-This is the website for Indonesia stock market data. We post all the related data for Indonesia stock market characteristic-based long-short portfolios and risk factor data on this website.
+This website serves as a repository for comprehensive data pertaining to the Indonesian stock market, with a specific focus on characteristic-based long-short portfolios and associated risk factor analyses.
 
-
-The characteristic-based portfolios (factors) in Indonesia are explored in the paper *Risk Factors in the Indonesian Stock Market* and can be found [here](https://www.sciencedirect.com/science/article/pii/S0927538X23002469). 
-We further estimate a 4-factor model in Indonesia that captures the systematic risk in Indonesia stock market [here](https://sammmar98.github.io/IDN_Factors.github.io//files/IDX4_20240404.pdf). 
+Our investigation into the distinctive characteristics of the Indonesian stock market is articulated in the paper titled *Risk Factors in the Indonesian Stock Market*, which can be accessed [here](https://www.sciencedirect.com/science/article/pii/S0927538X23002469). Furthermore, we present a four-factor model designed to effectively capture the systematic risks prevalent within the Indonesian stock market, details of which are available [here](https://sammmar98.github.io/IDN_Factors.github.io//files/IDX4_20240404.pdf). 
 
 For the co-auther team: The three authors are all from School of Accounting and Finance, Hong Kong Polytechnic University. [Chishen Wei](https://sites.google.com/view/profwei/home) is an Associate Professor at Hong Kong Polytechnic University. [Linti Zhang](https://www.polyu.edu.hk/en/af/people/academic-staff/dr-linti-zhang/) is a Research Assistant Professor. [Nanqi Li](https://www.polyu.edu.hk/af/people/research-students/ms-nanqi-li/) is a 5th year PhD student in Finance. 
 
